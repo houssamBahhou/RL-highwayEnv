@@ -16,7 +16,7 @@ The average score on 50 episodes with "`DQN with Replay memory`" model is : 26,0
 ![alt text](./images/duration_400.jpg)
 
 
-The average score on 50 episodes with "`DQN with Prioritized experience replay`" model is : 26,08. This is the plot duration of episodes in the training.
+The average score on 50 episodes with "`DQN with Prioritized experience replay`" model is : 29,37. This is the plot duration of episodes in the training.
 
 ![alt text](./images/duration_per_400.jpg)
 
