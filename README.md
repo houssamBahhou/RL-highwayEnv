@@ -21,9 +21,5 @@ The average score on 50 episodes with "`DQN with Prioritized experience replay`"
 ![alt text](./images/duration_per_400.jpg)
 
 ### **Demo**
-<p align="center">
-    <img src="https://raw.githubusercontent.com/houssamBahhou/RL-highwayEnv/master/demo.mp4?token=AR2UWK7QCW34BGY3YUCI24LBY2AZW"><br/>
-    <em>An episode of highway-v0.</em>
-</p>
 
-
+![demo](./demo.gif)
